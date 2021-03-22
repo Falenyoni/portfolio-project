@@ -1,0 +1,4 @@
+Particles.js - React Component
+Bootstrap
+FontAwesomeIcon
+react-typed
